@@ -33,6 +33,9 @@ A responsive full-stack web application that allows users to search doctors by s
 ### Deployment
 - Frontend: [Vercel](https://vercel.com/)
 - Backend: Localhost or free Node.js hosting (like Render)
+<img width="1699" height="831" alt="image" src="https://github.com/user-attachments/assets/113baaaf-1b69-4edf-abc1-db8e94e66389" />
+<img width="1845" height="792" alt="image" src="https://github.com/user-attachments/assets/052d5316-2d73-49c0-9649-c81ed7c2363e" />
+<img width="1889" height="796" alt="image" src="https://github.com/user-attachments/assets/f7d56b36-64f8-4292-a83d-f56df0201a92>
 
 practo-clone/
 │
