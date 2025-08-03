@@ -1,0 +1,64 @@
+.doctor-card {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 16px;
+  gap: 16px;
+  transition: transform 0.2s ease;
+  max-width: 100%;
+}
+
+.doctor-card:hover {
+  transform: scale(1.02);
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #e0e0e0;
+}
+
+.info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 6px;
+}
+
+.info h2 {
+  margin: 0;
+  font-size: 1.3rem;
+  color: #1d3557;
+}
+
+.info p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.info p strong {
+  color: #2a9d8f;
+}
+
+@media (max-width: 600px) {
+  .doctor-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .info {
+    align-items: center;
+  }
+}

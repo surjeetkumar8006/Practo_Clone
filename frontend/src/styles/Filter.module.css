@@ -1,0 +1,12 @@
+.filterContainer {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.select {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  margin-left: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}

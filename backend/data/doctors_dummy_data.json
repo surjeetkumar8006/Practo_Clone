@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 27,
+    "consultationFee": 1000,
+    "rating": 92,
+    "patientStories": 1778,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Depression"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 3,
+    "consultationFee": 700,
+    "rating": 93,
+    "patientStories": 1291,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Arjun Reddy",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 18,
+    "consultationFee": 500,
+    "rating": 85,
+    "patientStories": 1821,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Eye Surgery"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 28,
+    "consultationFee": 900,
+    "rating": 92,
+    "patientStories": 1686,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Mental Health"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Neha Gupta",
+    "specialty": "Neurologist",
+    "clinicName": "Neurologist Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 28,
+    "consultationFee": 1000,
+    "rating": 82,
+    "patientStories": 1234,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Nerves"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Arjun Reddy",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 23,
+    "consultationFee": 900,
+    "rating": 85,
+    "patientStories": 1603,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Vision"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 500,
+    "rating": 81,
+    "patientStories": 650,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Vaccination"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "Dermatologist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 300,
+    "rating": 83,
+    "patientStories": 1392,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dr. Priya Nair",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 26,
+    "consultationFee": 900,
+    "rating": 81,
+    "patientStories": 1708,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "BP Control"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Orthopedic",
+    "clinicName": "Orthopedic Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 9,
+    "consultationFee": 500,
+    "rating": 97,
+    "patientStories": 902,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Joints"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dr. Neha Gupta",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 300,
+    "rating": 96,
+    "patientStories": 1621,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Mental Health"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 15,
+    "consultationFee": 900,
+    "rating": 85,
+    "patientStories": 1105,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "Heart"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 18,
+    "consultationFee": 300,
+    "rating": 93,
+    "patientStories": 1906,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "BP Control"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "Dermatologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 9,
+    "consultationFee": 300,
+    "rating": 81,
+    "patientStories": 786,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 26,
+    "consultationFee": 500,
+    "rating": 84,
+    "patientStories": 558,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Eye Surgery"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Orthopedic",
+    "clinicName": "Orthopedic Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 3,
+    "consultationFee": 700,
+    "rating": 87,
+    "patientStories": 1435,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Bones"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Dentist",
+    "clinicName": "Dentist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 500,
+    "rating": 96,
+    "patientStories": 1465,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Braces"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 30,
+    "consultationFee": 900,
+    "rating": 96,
+    "patientStories": 1860,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Depression"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 700,
+    "rating": 88,
+    "patientStories": 322,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Heart"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Dr. Priya Nair",
+    "specialty": "Orthopedic",
+    "clinicName": "Orthopedic Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 700,
+    "rating": 87,
+    "patientStories": 739,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Bones"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 700,
+    "rating": 89,
+    "patientStories": 1564,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Child Health"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Dr. Vinod Kapoor",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 16,
+    "consultationFee": 900,
+    "rating": 87,
+    "patientStories": 1977,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 28,
+    "consultationFee": 500,
+    "rating": 81,
+    "patientStories": 341,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Depression"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Neurologist",
+    "clinicName": "Neurologist Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 14,
+    "consultationFee": 700,
+    "rating": 84,
+    "patientStories": 431,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Nerves"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Dr. Neha Gupta",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 26,
+    "consultationFee": 900,
+    "rating": 92,
+    "patientStories": 1794,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Neurologist",
+    "clinicName": "Neurologist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 22,
+    "consultationFee": 1000,
+    "rating": 97,
+    "patientStories": 697,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Nerves"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 20,
+    "consultationFee": 1000,
+    "rating": 94,
+    "patientStories": 1548,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Eye Surgery"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Neurologist",
+    "clinicName": "Neurologist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 900,
+    "rating": 85,
+    "patientStories": 551,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Brain"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Dr. Meena Sharma",
+    "specialty": "General Physician",
+    "clinicName": "General Physician Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 900,
+    "rating": 88,
+    "patientStories": 1035,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Cold"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 14,
+    "consultationFee": 500,
+    "rating": 91,
+    "patientStories": 1647,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Eye Surgery"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 11,
+    "consultationFee": 700,
+    "rating": 98,
+    "patientStories": 1795,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 900,
+    "rating": 87,
+    "patientStories": 845,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "Depression"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Dr. Neha Gupta",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 300,
+    "rating": 93,
+    "patientStories": 418,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Depression"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Dr. Arjun Reddy",
+    "specialty": "Dentist",
+    "clinicName": "Dentist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 4,
+    "consultationFee": 1000,
+    "rating": 98,
+    "patientStories": 1231,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Braces"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 25,
+    "consultationFee": 300,
+    "rating": 92,
+    "patientStories": 1022,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Mental Health"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "Dentist",
+    "clinicName": "Dentist Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 29,
+    "consultationFee": 300,
+    "rating": 99,
+    "patientStories": 519,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Tooth Extraction"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Dr. Vinod Kapoor",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 18,
+    "consultationFee": 700,
+    "rating": 96,
+    "patientStories": 1359,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Heart"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 25,
+    "consultationFee": 900,
+    "rating": 90,
+    "patientStories": 427,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Heart"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 300,
+    "rating": 95,
+    "patientStories": 679,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Heart"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Neurologist",
+    "clinicName": "Neurologist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 300,
+    "rating": 90,
+    "patientStories": 1038,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Brain"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 22,
+    "consultationFee": 300,
+    "rating": 89,
+    "patientStories": 400,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Vision"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Dentist",
+    "clinicName": "Dentist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 4,
+    "consultationFee": 700,
+    "rating": 88,
+    "patientStories": 1692,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "Tooth Extraction"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Dermatologist",
+    "clinicName": "Dermatologist Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 23,
+    "consultationFee": 900,
+    "rating": 99,
+    "patientStories": 1862,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Acne"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 3,
+    "consultationFee": 300,
+    "rating": 94,
+    "patientStories": 237,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Child Health"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 15,
+    "consultationFee": 500,
+    "rating": 89,
+    "patientStories": 1970,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Mental Health"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Dr. Priya Nair",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 22,
+    "consultationFee": 700,
+    "rating": 91,
+    "patientStories": 1386,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Women Health"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 1000,
+    "rating": 98,
+    "patientStories": 1857,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Eye Surgery"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Dr. Manoj Singh",
+    "specialty": "General Physician",
+    "clinicName": "General Physician Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 300,
+    "rating": 95,
+    "patientStories": 335,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Checkup"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "Dermatologist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 29,
+    "consultationFee": 1000,
+    "rating": 93,
+    "patientStories": 358,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 27,
+    "consultationFee": 1000,
+    "rating": 96,
+    "patientStories": 191,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Dr. Neha Gupta",
+    "specialty": "Dentist",
+    "clinicName": "Dentist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 28,
+    "consultationFee": 900,
+    "rating": 90,
+    "patientStories": 536,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Braces"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Dr. Priya Nair",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 300,
+    "rating": 83,
+    "patientStories": 268,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "Mental Health"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Dr. Priya Nair",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 1000,
+    "rating": 83,
+    "patientStories": 1343,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Child Health"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 900,
+    "rating": 86,
+    "patientStories": 343,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 6,
+    "consultationFee": 900,
+    "rating": 95,
+    "patientStories": 1580,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Vision"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Dr. Neha Gupta",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 6,
+    "consultationFee": 500,
+    "rating": 86,
+    "patientStories": 1709,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Eye Surgery"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Orthopedic",
+    "clinicName": "Orthopedic Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 500,
+    "rating": 84,
+    "patientStories": 1060,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Bones"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 16,
+    "consultationFee": 500,
+    "rating": 90,
+    "patientStories": 826,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Women Health"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "Neurologist",
+    "clinicName": "Neurologist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 500,
+    "rating": 92,
+    "patientStories": 281,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Brain"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Dr. Priya Nair",
+    "specialty": "General Physician",
+    "clinicName": "General Physician Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 1000,
+    "rating": 87,
+    "patientStories": 122,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Cold"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Dr. Neha Gupta",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 9,
+    "consultationFee": 900,
+    "rating": 81,
+    "patientStories": 714,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "BP Control"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Dr. Vinod Kapoor",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 4,
+    "consultationFee": 500,
+    "rating": 86,
+    "patientStories": 1650,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Neurologist",
+    "clinicName": "Neurologist Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 7,
+    "consultationFee": 1000,
+    "rating": 96,
+    "patientStories": 186,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Brain"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 3,
+    "consultationFee": 900,
+    "rating": 89,
+    "patientStories": 363,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Vaccination"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Neurologist",
+    "clinicName": "Neurologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 900,
+    "rating": 96,
+    "patientStories": 1322,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Nerves"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 7,
+    "consultationFee": 1000,
+    "rating": 95,
+    "patientStories": 1500,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Child Health"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 29,
+    "consultationFee": 700,
+    "rating": 88,
+    "patientStories": 1818,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Dentist",
+    "clinicName": "Dentist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 700,
+    "rating": 90,
+    "patientStories": 1475,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Tooth Extraction"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Dr. Vinod Kapoor",
+    "specialty": "Orthopedic",
+    "clinicName": "Orthopedic Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 700,
+    "rating": 85,
+    "patientStories": 1797,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Bones"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 6,
+    "consultationFee": 1000,
+    "rating": 99,
+    "patientStories": 740,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Mental Health"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 26,
+    "consultationFee": 300,
+    "rating": 87,
+    "patientStories": 932,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Heart"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Dr. Vinod Kapoor",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 28,
+    "consultationFee": 500,
+    "rating": 87,
+    "patientStories": 416,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "BP Control"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Dr. Vinod Kapoor",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 22,
+    "consultationFee": 300,
+    "rating": 99,
+    "patientStories": 1582,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Vaccination"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "Dermatologist Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 16,
+    "consultationFee": 500,
+    "rating": 96,
+    "patientStories": 1049,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Dr. Neha Gupta",
+    "specialty": "Neurologist",
+    "clinicName": "Neurologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 17,
+    "consultationFee": 300,
+    "rating": 82,
+    "patientStories": 1326,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Nerves"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 6,
+    "consultationFee": 300,
+    "rating": 96,
+    "patientStories": 122,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Women Health"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 17,
+    "consultationFee": 500,
+    "rating": 99,
+    "patientStories": 183,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Vision"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Dr. Priya Nair",
+    "specialty": "General Physician",
+    "clinicName": "General Physician Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 22,
+    "consultationFee": 1000,
+    "rating": 99,
+    "patientStories": 1931,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Checkup"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Dr. Meena Sharma",
+    "specialty": "General Physician",
+    "clinicName": "General Physician Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 900,
+    "rating": 87,
+    "patientStories": 1052,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Cold"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 23,
+    "consultationFee": 700,
+    "rating": 91,
+    "patientStories": 1556,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Vaccination"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 6,
+    "consultationFee": 700,
+    "rating": 98,
+    "patientStories": 324,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Eye Surgery"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 25,
+    "consultationFee": 900,
+    "rating": 92,
+    "patientStories": 1701,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "Vaccination"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 4,
+    "consultationFee": 300,
+    "rating": 92,
+    "patientStories": 1805,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Vision"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Dr. Arjun Reddy",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 4,
+    "consultationFee": 1000,
+    "rating": 87,
+    "patientStories": 1983,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Pregnancy"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Dentist",
+    "clinicName": "Dentist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 28,
+    "consultationFee": 1000,
+    "rating": 98,
+    "patientStories": 1544,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Braces"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 900,
+    "rating": 83,
+    "patientStories": 379,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Eye Surgery"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "General Physician",
+    "clinicName": "General Physician Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 1000,
+    "rating": 93,
+    "patientStories": 1585,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Cold"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Dr. Meena Sharma",
+    "specialty": "General Physician",
+    "clinicName": "General Physician Care Clinic",
+    "location": "Koramangala, Bangalore",
+    "experienceYears": 26,
+    "consultationFee": 1000,
+    "rating": 90,
+    "patientStories": 1648,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Fever"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Ophthalmologist",
+    "clinicName": "Ophthalmologist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 26,
+    "consultationFee": 500,
+    "rating": 90,
+    "patientStories": 948,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Eye Surgery"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Dr. Manoj Singh",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 300,
+    "rating": 88,
+    "patientStories": 1279,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Depression"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Dr. Priya Nair",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 30,
+    "consultationFee": 300,
+    "rating": 94,
+    "patientStories": 1813,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Vaccination"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Dr. Sunita Rao",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 900,
+    "rating": 98,
+    "patientStories": 629,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "BP Control"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 6,
+    "consultationFee": 300,
+    "rating": 95,
+    "patientStories": 1949,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Depression"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Dr. Meena Sharma",
+    "specialty": "General Physician",
+    "clinicName": "General Physician Care Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 15,
+    "consultationFee": 700,
+    "rating": 83,
+    "patientStories": 146,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Cold"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "General Physician",
+    "clinicName": "General Physician Care Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 900,
+    "rating": 94,
+    "patientStories": 1158,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Checkup"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Pediatrician",
+    "clinicName": "Pediatrician Care Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 700,
+    "rating": 90,
+    "patientStories": 1479,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Child Health"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Dr. Anjali Mehra",
+    "specialty": "Gynecologist",
+    "clinicName": "Gynecologist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 25,
+    "consultationFee": 300,
+    "rating": 81,
+    "patientStories": 1048,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Women Health"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Dr. Arjun Reddy",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 3,
+    "consultationFee": 1000,
+    "rating": 87,
+    "patientStories": 374,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Mental Health"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Dr. Ramesh Joshi",
+    "specialty": "Psychiatrist",
+    "clinicName": "Psychiatrist Care Clinic",
+    "location": "Whitefield, Bangalore",
+    "experienceYears": 9,
+    "consultationFee": 900,
+    "rating": 95,
+    "patientStories": 184,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Depression"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Cardiologist",
+    "clinicName": "Cardiologist Care Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 3,
+    "consultationFee": 300,
+    "rating": 99,
+    "patientStories": 1485,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "BP Control"
+    ]
+  }
+]

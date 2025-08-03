@@ -1,0 +1,29 @@
+.page {
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+}
+
+.cardsContainer {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.noResults {
+  font-size: 1.1rem;
+  color: #888;
+  text-align: center;
+}

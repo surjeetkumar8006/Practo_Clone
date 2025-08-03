@@ -1,0 +1,1726 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Amit Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 16,
+    "consultationFee": 900,
+    "rating": 88,
+    "patientStories": 236,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor1.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Pooja Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 17,
+    "consultationFee": 700,
+    "rating": 95,
+    "patientStories": 1804,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor2.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Neha Natraj",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 9,
+    "consultationFee": 900,
+    "rating": 86,
+    "patientStories": 1315,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor3.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 7,
+    "consultationFee": 500,
+    "rating": 85,
+    "patientStories": 1606,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor4.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Dermatologist",
+    "clinicName": "Sapphire Skin Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 20,
+    "consultationFee": 600,
+    "rating": 97,
+    "patientStories": 1773,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor5.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Amit Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 11,
+    "consultationFee": 500,
+    "rating": 93,
+    "patientStories": 1638,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor6.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Neha Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 900,
+    "rating": 89,
+    "patientStories": 963,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor7.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Amit Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 27,
+    "consultationFee": 800,
+    "rating": 88,
+    "patientStories": 1664,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor8.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dr. Manoj Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 900,
+    "rating": 87,
+    "patientStories": 604,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor9.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Meena Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 800,
+    "rating": 95,
+    "patientStories": 1833,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor10.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dr. Neha Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 23,
+    "consultationFee": 500,
+    "rating": 87,
+    "patientStories": 1597,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor11.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dr. Meena Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 30,
+    "consultationFee": 800,
+    "rating": 96,
+    "patientStories": 108,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor12.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Dr. Manoj Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 9,
+    "consultationFee": 500,
+    "rating": 98,
+    "patientStories": 1594,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor13.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 900,
+    "rating": 88,
+    "patientStories": 930,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor14.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Dr. Manoj Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 9,
+    "consultationFee": 500,
+    "rating": 99,
+    "patientStories": 985,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor15.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Dr. Pooja Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 500,
+    "rating": 85,
+    "patientStories": 1424,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor16.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Dr. Amit Sharma",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 13,
+    "consultationFee": 900,
+    "rating": 98,
+    "patientStories": 1105,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor17.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Dr. Pooja Mishra",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 800,
+    "rating": 89,
+    "patientStories": 1203,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor18.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Dr. Anita Mishra",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 22,
+    "consultationFee": 900,
+    "rating": 97,
+    "patientStories": 1142,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor19.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Dr. Ravi Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 600,
+    "rating": 89,
+    "patientStories": 1085,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor20.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Dr. Manoj Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 700,
+    "rating": 89,
+    "patientStories": 1875,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor21.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Dr. Anita Kumar",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 14,
+    "consultationFee": 500,
+    "rating": 88,
+    "patientStories": 1774,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor22.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Dr. Pooja Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 9,
+    "consultationFee": 900,
+    "rating": 97,
+    "patientStories": 220,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor23.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Dr. Neha Yadav",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 900,
+    "rating": 94,
+    "patientStories": 1382,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor24.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Dr. Suresh Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 800,
+    "rating": 90,
+    "patientStories": 708,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor25.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Dr. Ravi Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 25,
+    "consultationFee": 800,
+    "rating": 87,
+    "patientStories": 280,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor26.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Dr. Rakesh Mishra",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 500,
+    "rating": 85,
+    "patientStories": 1627,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor27.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Dr. Pooja Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "Sapphire Skin Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 800,
+    "rating": 96,
+    "patientStories": 1643,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor28.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Dr. Anita Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 17,
+    "consultationFee": 700,
+    "rating": 94,
+    "patientStories": 285,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor29.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Dr. Manoj Natraj",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 800,
+    "rating": 99,
+    "patientStories": 180,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor30.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Dr. Suresh Yadav",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 700,
+    "rating": 87,
+    "patientStories": 599,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor31.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Dr. Pooja Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 600,
+    "rating": 96,
+    "patientStories": 1950,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor32.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Dr. Meena Natraj",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 600,
+    "rating": 96,
+    "patientStories": 1442,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor33.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Dr. Amit Kumar",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 13,
+    "consultationFee": 500,
+    "rating": 94,
+    "patientStories": 1515,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor34.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Dr. Manoj Sharma",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 16,
+    "consultationFee": 900,
+    "rating": 92,
+    "patientStories": 54,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor35.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Dr. Neha Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 18,
+    "consultationFee": 900,
+    "rating": 90,
+    "patientStories": 1713,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor36.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Dr. Amit Kumar",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 23,
+    "consultationFee": 600,
+    "rating": 95,
+    "patientStories": 1217,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor37.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Dr. Divya Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 600,
+    "rating": 88,
+    "patientStories": 1819,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor38.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Dr. Meena Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 600,
+    "rating": 98,
+    "patientStories": 323,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor39.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Dr. Neha Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 27,
+    "consultationFee": 500,
+    "rating": 98,
+    "patientStories": 430,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor40.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Dr. Anita Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 7,
+    "consultationFee": 700,
+    "rating": 93,
+    "patientStories": 210,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor41.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Dr. Amit Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "Sapphire Skin Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 700,
+    "rating": 88,
+    "patientStories": 1311,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor42.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Dr. Divya Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Sapphire Skin Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 700,
+    "rating": 91,
+    "patientStories": 1656,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor43.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Dr. Divya Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Sapphire Skin Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 27,
+    "consultationFee": 700,
+    "rating": 85,
+    "patientStories": 187,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor44.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Dr. Neha Sharma",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 500,
+    "rating": 96,
+    "patientStories": 752,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor45.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Dr. Meena Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 6,
+    "consultationFee": 700,
+    "rating": 88,
+    "patientStories": 274,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor46.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Dr. Ravi Natraj",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 600,
+    "rating": 95,
+    "patientStories": 1667,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor47.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Dr. Anita Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 14,
+    "consultationFee": 700,
+    "rating": 94,
+    "patientStories": 799,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor48.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Dr. Neha Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 25,
+    "consultationFee": 900,
+    "rating": 98,
+    "patientStories": 885,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor49.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Dr. Neha Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 900,
+    "rating": 99,
+    "patientStories": 983,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor50.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Dr. Amit Mishra",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 13,
+    "consultationFee": 800,
+    "rating": 93,
+    "patientStories": 241,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor51.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Dr. Amit Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 600,
+    "rating": 91,
+    "patientStories": 1986,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor52.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Dr. Anita Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 25,
+    "consultationFee": 800,
+    "rating": 97,
+    "patientStories": 551,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor53.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Dr. Anita Kumar",
+    "specialty": "Dermatologist",
+    "clinicName": "Sapphire Skin Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 22,
+    "consultationFee": 800,
+    "rating": 87,
+    "patientStories": 1741,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor54.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Dr. Anita Yadav",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 20,
+    "consultationFee": 800,
+    "rating": 89,
+    "patientStories": 1761,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor55.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Dr. Suresh Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 14,
+    "consultationFee": 600,
+    "rating": 100,
+    "patientStories": 127,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor56.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Dr. Manoj Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 600,
+    "rating": 95,
+    "patientStories": 1724,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor57.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Dr. Suresh Kumar",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 18,
+    "consultationFee": 800,
+    "rating": 95,
+    "patientStories": 1502,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor58.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Dr. Manoj Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 15,
+    "consultationFee": 800,
+    "rating": 100,
+    "patientStories": 1405,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor59.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Dr. Meena Kumar",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 23,
+    "consultationFee": 900,
+    "rating": 90,
+    "patientStories": 878,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor60.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Dr. Meena Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 11,
+    "consultationFee": 600,
+    "rating": 90,
+    "patientStories": 172,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor61.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Dr. Amit Sharma",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 700,
+    "rating": 96,
+    "patientStories": 996,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor62.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Dr. Manoj Kumar",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 14,
+    "consultationFee": 700,
+    "rating": 95,
+    "patientStories": 1233,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor63.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Dr. Divya Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Sapphire Skin Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 21,
+    "consultationFee": 600,
+    "rating": 86,
+    "patientStories": 1193,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor64.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Dr. Anita Yadav",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 29,
+    "consultationFee": 500,
+    "rating": 90,
+    "patientStories": 1751,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor65.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Dr. Rakesh Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 14,
+    "consultationFee": 700,
+    "rating": 92,
+    "patientStories": 317,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor66.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Dr. Neha Yadav",
+    "specialty": "Dermatologist",
+    "clinicName": "Sapphire Skin Clinic",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 500,
+    "rating": 98,
+    "patientStories": 673,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor67.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Dr. Manoj Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 27,
+    "consultationFee": 800,
+    "rating": 90,
+    "patientStories": 1165,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor68.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Dr. Ravi Natraj",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 21,
+    "consultationFee": 600,
+    "rating": 90,
+    "patientStories": 1530,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor69.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Dr. Amit Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 900,
+    "rating": 88,
+    "patientStories": 658,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor70.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Dr. Suresh Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 500,
+    "rating": 86,
+    "patientStories": 1957,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor71.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Dr. Amit Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 19,
+    "consultationFee": 900,
+    "rating": 97,
+    "patientStories": 556,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor72.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Dr. Neha Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 800,
+    "rating": 95,
+    "patientStories": 1552,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor73.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Dr. Suresh Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 700,
+    "rating": 87,
+    "patientStories": 1750,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor74.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Dr. Anita Natraj",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 21,
+    "consultationFee": 500,
+    "rating": 88,
+    "patientStories": 1440,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor75.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Dr. Suresh Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 700,
+    "rating": 87,
+    "patientStories": 423,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor76.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Dr. Manoj Mishra",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 10,
+    "consultationFee": 800,
+    "rating": 100,
+    "patientStories": 488,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor77.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Dr. Suresh Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 21,
+    "consultationFee": 800,
+    "rating": 98,
+    "patientStories": 516,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor78.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Dr. Suresh Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 11,
+    "consultationFee": 900,
+    "rating": 95,
+    "patientStories": 1539,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor79.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Dr. Anita Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 29,
+    "consultationFee": 900,
+    "rating": 98,
+    "patientStories": 1148,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor80.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Dr. Neha Mishra",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 8,
+    "consultationFee": 900,
+    "rating": 88,
+    "patientStories": 537,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor81.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Dr. Divya Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "Sapphire Skin Clinic",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 15,
+    "consultationFee": 900,
+    "rating": 95,
+    "patientStories": 982,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor82.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Dr. Ravi Verma",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 5,
+    "consultationFee": 800,
+    "rating": 97,
+    "patientStories": 1438,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor83.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Dr. Suresh Joshi",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 27,
+    "consultationFee": 500,
+    "rating": 98,
+    "patientStories": 1092,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor84.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dr. Ravi Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 15,
+    "consultationFee": 800,
+    "rating": 95,
+    "patientStories": 1011,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor85.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Dr. Rakesh Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 11,
+    "consultationFee": 600,
+    "rating": 94,
+    "patientStories": 1557,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor86.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dr. Manoj Mishra",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 26,
+    "consultationFee": 700,
+    "rating": 96,
+    "patientStories": 500,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor87.jpg",
+    "tags": [
+      "Laser"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Dr. Suresh Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 16,
+    "consultationFee": 500,
+    "rating": 91,
+    "patientStories": 202,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor88.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Dr. Rakesh Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 11,
+    "consultationFee": 500,
+    "rating": 99,
+    "patientStories": 1233,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor89.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Dr. Anita Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 13,
+    "consultationFee": 800,
+    "rating": 93,
+    "patientStories": 197,
+    "isAvailableToday": true,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor90.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Dr. Neha Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 28,
+    "consultationFee": 800,
+    "rating": 89,
+    "patientStories": 1345,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor91.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Dr. Pooja Natraj",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 6,
+    "consultationFee": 500,
+    "rating": 89,
+    "patientStories": 486,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor92.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Dr. Rakesh Gupta",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Jayanagar, Bangalore",
+    "experienceYears": 16,
+    "consultationFee": 600,
+    "rating": 100,
+    "patientStories": 281,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor93.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Dr. Pooja Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 30,
+    "consultationFee": 500,
+    "rating": 86,
+    "patientStories": 1881,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor94.jpg",
+    "tags": [
+      "Acne",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Dr. Neha Sharma",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "BTM Layout, Bangalore",
+    "experienceYears": 14,
+    "consultationFee": 600,
+    "rating": 100,
+    "patientStories": 1406,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor95.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Dr. Manoj Mehra",
+    "specialty": "Dermatologist",
+    "clinicName": "Skin & Hair Experts",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 21,
+    "consultationFee": 900,
+    "rating": 94,
+    "patientStories": 987,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor96.jpg",
+    "tags": [
+      "Hair Specialist"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Dr. Manoj Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "GlowDerm",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 12,
+    "consultationFee": 500,
+    "rating": 97,
+    "patientStories": 876,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor97.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Dr. Anita Natraj",
+    "specialty": "Dermatologist",
+    "clinicName": "Aesthetic Heart Clinic",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 17,
+    "consultationFee": 900,
+    "rating": 87,
+    "patientStories": 732,
+    "isAvailableToday": false,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor98.jpg",
+    "tags": [
+      "Skin & Hair"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Dr. Meena Kumar",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "JP Nagar, Bangalore",
+    "experienceYears": 25,
+    "consultationFee": 600,
+    "rating": 91,
+    "patientStories": 1599,
+    "isAvailableToday": true,
+    "isAd": true,
+    "profileImage": "https://example.com/images/doctor99.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Dr. Meena Reddy",
+    "specialty": "Dermatologist",
+    "clinicName": "DermaPlus",
+    "location": "Indiranagar, Bangalore",
+    "experienceYears": 24,
+    "consultationFee": 500,
+    "rating": 87,
+    "patientStories": 566,
+    "isAvailableToday": false,
+    "isAd": false,
+    "profileImage": "https://example.com/images/doctor100.jpg",
+    "tags": [
+      "Cosmetology"
+    ]
+  }
+]
